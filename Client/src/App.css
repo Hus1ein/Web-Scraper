@@ -1,0 +1,50 @@
+
+#header {
+    margin: 0 0 30px;
+    padding-top: 25px;
+    height: 100px;
+    text-align: center;
+    background-color: #222;
+    color: white;
+}
+
+#inputs {
+    width: 100%;
+
+}
+
+#results {
+    width: 100%;
+    margin: 0 15px;
+
+}
+
+#inputs h1, h3, #results h1, h3 {
+    text-align: center;
+}
+
+#inputs form input, textarea, h3, #json-pretty{
+    width: 70%;
+    margin: 15px 15%;
+}
+
+button {
+    width: 40%;
+    margin: 15px 30%;
+}
+
+input, textarea, p {
+    font-size: 20px;
+}
+
+#json-pretty {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+button {
+    background-color: green;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
