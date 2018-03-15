@@ -27,7 +27,7 @@ CSS selectors :
         }
       ]
     },
-    {
+.    {
       "key":"otherProjects",
       "type":"container",
       "css":".other-projects .other-project",
@@ -48,7 +48,7 @@ CSS selectors :
     }
   ]
   
-  ///////////////////////////////////////////////////////////////////////
+  ///////////////////////////////////////////////////////////////////////.
   Sample output (JSON): 
   
   {
